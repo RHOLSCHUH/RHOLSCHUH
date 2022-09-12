@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RHOLSCHUH
-- 👀 I’m interested in c++ coding
+- 👀 I’m interested in c++ & python coding
 - 🌱 I’m currently studying computer science at a university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
